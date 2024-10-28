@@ -1,0 +1,9 @@
+.vscode
+.idea
+yarn-error.log
+node_modules/
+dist/
+coverage
+.env
+.DS_Store
+prisma/ar/.generated
